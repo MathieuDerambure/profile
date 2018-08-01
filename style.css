@@ -1,0 +1,98 @@
+body {
+background-color: rgb(100,100,100);
+color :rgb(100,100,100);
+font-family: 'Open Sans', sans-serif;
+text-decoration: none;
+text-align: justify;
+font-weight: 100;
+font-size: 12px;
+}
+
+h1 {
+color : #EC0868;
+font-size: 25px;
+}
+
+h2 {
+font-family: 'Open Sans', sans-serif;
+font-weight: 100;
+font-size: 20px;
+}
+
+h3 {
+font-family: 'Open Sans', sans-serif;
+font-weight: 100;
+font-size: 18px;
+
+}
+
+a {
+  text-decoration: none;
+  color :rgb(10,10,10);
+  font-family: 'Open Sans', sans-serif;
+  font-size: 20px;
+  padding: 20px;
+}
+
+
+
+a:hover {
+  color: #EC0868;
+
+}
+
+p {
+  padding-bottom: 10px;
+}
+
+td {
+  padding: 10px;
+}
+
+.container {
+  width: 500px;   /* This sets the width */
+  margin: 0 auto; /* This automatically sets left/right margins */
+}
+
+.card {
+    background: white;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 4px;
+    box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.2);
+}
+
+.img {
+  width: 100px;
+  height: 100px;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.list-inline li {
+    display: inline-block;
+    padding: 20px;
+}
+
+.btn-red {
+    background-color: #EC0868;
+    color: white;
+    font-weight: 500;
+    padding: 10px;
+    border: 5px;
+    border-radius: 6px;
+    font-size: 12px;
+  }
+
+.btn-red:hover {
+  background-color: #880D1E ;
+  color: #FFF;
+}
+
+  .img-circle {
+    border-radius: 50%;
+}
+
+
